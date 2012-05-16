@@ -1,0 +1,5 @@
+After checking numerous peer-reviewed papers on the order of the alphabet, we now correct this file:
+
+Alphabet:
+
+abcdefghijklmnopqrstuvwxyz
