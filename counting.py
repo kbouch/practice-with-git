@@ -12,3 +12,6 @@ def count():
         print random.randint(1,top)
 
 count()
+
+# looking back on this, I hope you know I was being silly by printing
+# random numbers.
